@@ -53,7 +53,7 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-
+  
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
